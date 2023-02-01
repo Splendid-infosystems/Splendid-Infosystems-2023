@@ -5,6 +5,8 @@ export default function AboutInfo() {
   return (
     <div className='About_info'>
       {/* AboutInfo */}
+      
       </div>
+      
   )
 }
