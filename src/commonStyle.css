@@ -1,5 +1,34 @@
-/* .Nav_Container{
-    background-color: black;
-    height: 20px;
+/**********Navbar container style ************/
+.Nav_Container{
+    height: 10vh;
+    /* width: vw; */
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-color: rgb(37 55 86);
+    color: black;
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+}
+
+/************** Student Data style *************/
+
+.StudentData_container{
+    height: 500px;
     width: 100%;
-} */
+    background-color: lightsalmon;
+}
+
+/************** Upcoming batch style *************/
+
+.Upcomingbatch_container{
+    height: 400px;
+    width: 100%;
+}
+
+/************** AboutInfo style *************/
+
+.About_info{
+    height: 300px;
+    width: 100%;
+    background-color: burlywood;
+}
