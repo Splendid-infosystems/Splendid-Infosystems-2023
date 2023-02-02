@@ -1,10 +1,13 @@
 .heading{
     text-align: center;
-    margin-bottom: 25px;
+    margin: 20px 0px 20px 0px;
+    background-color: #fff;
+    height: 60px;
+    width: 100%;
 }
 
 .Batches_info{
-    height: 200px;
+    height: 320px;
     width: 100%;
-    background-color: aquamarine;
+    background-color: lightskyblue;
 }
