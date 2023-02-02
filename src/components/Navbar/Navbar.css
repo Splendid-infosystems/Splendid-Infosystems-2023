@@ -1,14 +1,3 @@
-.Nav_Container{
-        height: 10vh;
-        /* width: vw; */
-        display: flex;
-        align-items: center;
-        position: relative;
-        background-color: rgb(37 55 86);
-        color: black;
-        box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
-}
-
 .brand-name {
     text-decoration: none;
     color: white;
